@@ -10,11 +10,9 @@ I moved to **Denmark** to begin a new chapter — both personally and academical
 
 ### 💻 My Learning Path
 
-I began studying **Python** through an online course focused not on a single domain, but on learning the language’s **core concepts** 
-and its **versatility** across multiple contexts. Now I'm focusing on **data analysis** and **machine learning**. In parallel with online courses, I’m pursuing formal studies in **computer science and math at RUC*. In my first semester project I worked on training a machine learning model to detect stress on plants. I have adapted the results to MEDIUM and ran further experiments exploring fine tunning the model to improve its accuracy and balance for the "stressed" and "healthy" classes.
-For my second semester I'm exploring machine learning and RVC V2 to help people with ALS in the early stage to communicate. This initiative focuses on early-stage voice banking for individuals with ALS. By capturing high-quality vocal samples before speech deterioration occurs, we utilize machine
-learning to generate a natural-sounding, enhanced synthetic voice for use in later stages of the disease.
+I began studying Python through an online course focused not on a single domain, but on learning the language's core concepts and its versatility across multiple contexts. From there, I focused on data analysis and machine learning. In parallel with online courses, I pursued formal studies in computer science and mathematics at RUC. In my first semester project I worked on training a machine learning model to detect stress on plants. I adapted the results to Medium and ran further experiments exploring fine-tuning the model to improve its accuracy and balance for the "stressed" and "healthy" classes. In my second semester I explored machine learning and RVC V2 to help people with ALS in the early stage to communicate. This initiative focused on early-stage voice banking for individuals with ALS. By capturing high-quality vocal samples before speech deterioration occurs, we utilized machine learning to generate a natural-sounding, enhanced synthetic voice for use in later stages of the disease.
 
+This coming semester I will be transitioning to the IT University of Copenhagen to pursue an MSc in Software Design.
 ---
 
 ### 🎯 What Drives Me
