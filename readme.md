@@ -4,7 +4,7 @@ I hold a five-year **Bachelor’s degree in Biotechnology** from Argentina, comp
 my appreciation for **data as the language of evidence**.  
 
 After several years of professional experience in **commercial** and **technology-transfer roles** within the pharmaceutical and technology sectors, 
-I moved to **Denmark** to begin a new chapter — both personally and academically — as a student of the **International Bachelor in Natural Science** at **Roskilde University**, specializing in **Computer Science** and **Mathematics**.
+I moved to **Denmark** to begin a new chapter — both personally and academically — as a student of the **International Bachelor in Natural Science** at **Roskilde University**, specializing in **Computer Science** and **Mathematics**. This coming semester, I will be transitioning to the IT University of Copenhagen to pursue an MSc in Software Design.
 
 ---
 
@@ -30,7 +30,6 @@ I am walking my first steps in my new life in Denmark with a lot of enthusiasm f
 
 - Python for data analysis and machine learning  
 - Statistical modeling and data visualization  
-- Building a portfolio of applied data projects
 
 ---
 
